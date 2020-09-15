@@ -3,6 +3,7 @@ import os
 import toml
 from datetime import datetime
 
+# file path for logs
 logging.basicConfig(filename="logs/response_log.txt", level="INFO")
 
 api_key = None

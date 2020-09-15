@@ -8,3 +8,7 @@ INFO:root:TIME: 2020-09-15 15:39:43.237018 => Saved in cache cache/2262963.json!
 INFO:root:TIME: 2020-09-15 15:39:48.245789 => Read from cache:cache/2262963.json
 INFO:root:TIME: 2020-09-15 15:42:09.544499 => Read from cache:cache/3448433.json
 INFO:root:TIME: 2020-09-15 15:42:18.271750 => Read from cache:cache/727011.json
+INFO:root:TIME: 2020-09-15 15:50:49.929427 => Saved in cache cache/2802361.json!
+INFO:root:TIME: 2020-09-15 15:52:25.677782 => Saved in cache cache/2802361.json!
+INFO:root:TIME: 2020-09-15 15:52:29.093667 => Read from cache:cache/2802361.json
+INFO:root:TIME: 2020-09-15 16:05:12.484527 => Read from cache:cache/2268406.json
