@@ -1,0 +1,6 @@
+[server]
+host = "localhost"
+port = 5656
+
+[api]
+key = "244df0cbb2bcae2bca2fbe929ae3a613"
