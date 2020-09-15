@@ -2,17 +2,12 @@
 import os
 import sys
 import toml
+from http.server import HTTPServer
 
 #local imports
-import api
+from handler import RequestHandler
 
-configs = toml.load("config/config.toml")
+server_config = toml.load("config/config.toml")["server"]
 
-#print(" Python version: " + sys.version)
-#print("\n Hello ")
-
-
-
-#api.init()
-
-#api.getInfo()
+server = HTTPServer((server_config["host"], server_config["port"]), RequestHandler)
+server.serve_forever()
