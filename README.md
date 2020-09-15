@@ -1,5 +1,5 @@
 # OpenWeather-RESTfull-Service
-assessment to fetch data about a city from OpenWeather (or from cache if already exists), given the city id.
+assessment to fetch data about a city from OpenWeather (or from cache if already exists), given the _city_id_.
 
 
 
