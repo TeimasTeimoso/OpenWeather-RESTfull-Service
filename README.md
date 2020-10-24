@@ -1,7 +1,4 @@
 # OpenWeather-RESTfull-Service
-assessment to fetch data about a city from OpenWeather (or from cache if already exists), given the _city_id_.
-
-
 
 ## Default values
 By default the server is running on **port 5656**. It can be changed in _config/config.toml_ as well as the API key.
